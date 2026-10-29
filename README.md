@@ -1,2 +1,2 @@
 # Demo--Cohort1---Test
-This is a Training - repository creation for FIIB PGDM 2026 - 28 Batch
+This is a GitHub Training - preliminary repository creation for FIIB PGDM Cohort 1 2026 - 28 Batch.
